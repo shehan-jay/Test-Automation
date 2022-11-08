@@ -20,8 +20,11 @@
 
 -------------------------------------------------------------
 
+*** Apply the correct web driver path before running
+File Path: Test-Automation/src/main/java/com/actitime/qa/config/config.properties
+(https://github.com/shehan-jay/Test-Automation/blob/main/src/main/java/com/actitime/qa/config/config.properties)
 
-
+-------------------------------------------------------------
 #### Mind Map or draft test cases for given requirement
 
 <img width="626" alt="Screenshot 2022-11-07 at 01 56 15" src="https://user-images.githubusercontent.com/42063291/200193538-a8b1e471-b11f-4311-a586-851fb5d577af.png">
