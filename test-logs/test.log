@@ -1,0 +1,811 @@
+2022-11-08 13:38:07,853 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 13:38:07,855 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 13:38:07,856 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 13:38:07,857 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 13:38:07,857 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 13:38:07,996 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 13:38:07,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 13:38:07,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 13:38:07,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 13:38:07,997 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 14:08:01,691  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 14:08:01,766  INFO [main] LoginPage:67 - Typing password
+2022-11-08 14:08:01,835  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 14:08:02,934  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 14:08:09,393  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 14:08:09,454  INFO [main] LoginPage:67 - Typing password
+2022-11-08 14:08:09,508  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 14:08:10,877  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 14:08:22,957  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 14:08:23,041  INFO [main] LoginPage:55 - Typing password
+2022-11-08 14:08:23,101  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 14:08:29,529  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 14:08:29,588  INFO [main] LoginPage:55 - Typing password
+2022-11-08 14:08:29,643  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 14:09:27,316  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 14:09:27,392  INFO [main] LoginPage:55 - Typing password
+2022-11-08 14:09:27,453  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 14:09:30,134  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 14:09:32,117  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 14:09:32,134  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 14:09:59,123  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 14:09:59,220  INFO [main] LoginPage:55 - Typing password
+2022-11-08 14:09:59,279  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 14:10:02,353  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 14:10:04,464  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 14:10:33,188  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 14:10:33,301  INFO [main] LoginPage:55 - Typing password
+2022-11-08 14:10:33,394  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 14:10:37,272  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 14:10:40,164  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 15:38:11,393  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 15:38:11,513  INFO [main] LoginPage:67 - Typing password
+2022-11-08 15:38:11,584  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 15:38:12,967  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 15:38:21,224  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 15:38:21,311  INFO [main] LoginPage:67 - Typing password
+2022-11-08 15:38:21,374  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 15:38:22,824  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 15:38:29,120  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 15:38:29,193  INFO [main] LoginPage:55 - Typing password
+2022-11-08 15:38:29,253  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 15:38:33,720  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 15:38:40,209  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 15:38:40,294  INFO [main] LoginPage:55 - Typing password
+2022-11-08 15:38:40,362  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 15:38:47,673  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 15:38:48,256  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 15:38:48,284  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 15:38:48,644  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 15:38:50,101  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 15:38:56,591  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 15:38:56,656  INFO [main] LoginPage:55 - Typing password
+2022-11-08 15:38:56,712  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 15:39:12,059  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 15:39:12,129  INFO [main] LoginPage:55 - Typing password
+2022-11-08 15:39:12,186  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 15:39:15,289  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 15:39:17,624  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 15:39:17,637  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 15:39:18,209  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 15:39:24,983  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 15:39:25,055  INFO [main] LoginPage:55 - Typing password
+2022-11-08 15:39:25,125  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 15:39:31,685  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 15:39:31,759  INFO [main] LoginPage:55 - Typing password
+2022-11-08 15:39:31,832  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 15:39:39,172  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 15:39:39,248  INFO [main] LoginPage:55 - Typing password
+2022-11-08 15:39:39,306  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 15:39:42,789  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 15:39:44,748  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 15:39:45,378  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 15:39:46,439  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 15:39:57,377  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 15:39:57,440  INFO [main] LoginPage:55 - Typing password
+2022-11-08 15:39:57,493  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 15:40:01,144  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 15:40:03,791  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 15:40:04,442  INFO [main] TimeTrackPage:67 - Clicking Approve Button
+2022-11-08 15:40:05,000 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 15:40:05,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 15:40:05,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 15:40:05,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 15:40:05,003 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 15:40:05,165 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 15:40:05,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 15:40:05,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 15:40:05,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 15:40:05,165 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:14:45,827  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 18:14:45,919  INFO [main] LoginPage:67 - Typing password
+2022-11-08 18:14:45,992  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 18:14:47,574  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 18:14:53,968  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 18:14:54,038  INFO [main] LoginPage:67 - Typing password
+2022-11-08 18:14:54,101  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 18:14:55,193  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 18:15:07,729  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:15:07,790  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:15:07,844  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:15:12,943  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 18:15:19,268  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:15:19,341  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:15:19,400  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:15:26,765  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 18:15:27,351  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 18:15:27,378  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 18:15:27,744  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 18:15:36,425  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:15:36,490  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:15:36,549  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:15:59,775  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:15:59,842  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:15:59,892  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:16:04,334  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:16:06,289  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 18:16:06,301  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:16:06,893  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 18:16:14,052  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:16:14,150  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:16:14,219  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:16:20,414  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:16:20,498  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:16:20,564  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:16:27,940  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:16:28,008  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:16:28,067  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:16:31,790  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:16:33,741  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:16:34,399  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 18:16:35,457  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 18:16:41,989  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:16:42,086  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:16:42,152  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:16:44,796  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:16:47,405  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:16:48,052  INFO [main] TimeTrackPage:67 - Clicking Approve Button
+2022-11-08 18:16:48,496 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:16:48,497 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:16:48,498 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:16:48,498 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:16:48,499 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:16:48,662 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:16:48,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:16:48,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:16:48,664 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:16:48,664 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:23:55,930  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 18:23:56,014  INFO [main] LoginPage:67 - Typing password
+2022-11-08 18:23:56,081  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 18:23:57,179  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 18:24:10,448  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 18:24:10,549  INFO [main] LoginPage:67 - Typing password
+2022-11-08 18:24:10,634  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 18:24:11,697  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 18:24:20,006  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:24:20,079  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:24:20,134  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:24:25,296  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 18:24:31,580  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:24:31,647  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:24:31,704  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:24:38,084  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 18:24:38,710  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 18:24:38,733  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 18:24:39,055  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 18:24:40,416  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 18:24:46,949  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:24:47,015  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:24:47,074  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:25:08,461  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:25:08,528  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:25:08,583  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:25:12,147  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:25:14,135  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 18:25:14,148  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:25:14,719  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 18:25:21,036  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:25:21,123  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:25:21,182  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:25:29,235  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:25:29,305  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:25:29,364  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:25:36,097  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:25:36,180  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:25:36,239  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:25:38,936  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:25:40,653  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:25:41,247  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 18:25:42,305  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 18:25:48,882  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:25:48,984  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:25:49,053  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:25:51,771  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:25:54,406  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:25:55,037  INFO [main] TimeTrackPage:67 - Clicking Approve Button
+2022-11-08 18:25:55,558 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:25:55,559 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:25:55,560 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:25:55,561 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:25:55,561 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:25:55,787 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:25:55,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:25:55,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:25:55,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:25:55,788 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:36:16,046  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 18:36:16,145  INFO [main] LoginPage:67 - Typing password
+2022-11-08 18:36:16,214  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 18:36:17,699  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 18:36:26,665  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 18:36:26,733  INFO [main] LoginPage:67 - Typing password
+2022-11-08 18:36:26,798  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 18:36:28,224  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 18:36:36,772  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:36:36,836  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:36:36,893  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:36:43,309  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 18:36:52,047  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:36:52,116  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:36:52,175  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:36:59,272  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 18:36:59,861  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 18:36:59,889  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 18:37:00,307  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 18:37:10,372  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:37:10,440  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:37:10,500  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:37:26,476  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:37:26,565  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:37:26,628  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:37:29,464  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:37:31,433  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 18:37:31,446  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:37:32,000  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 18:37:38,333  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:37:38,416  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:37:38,480  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:37:44,881  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:37:44,962  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:37:45,024  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:37:51,556  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:37:51,624  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:37:51,685  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:37:54,320  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:37:56,272  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:37:56,880  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 18:37:57,943  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 18:38:04,473  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 18:38:04,548  INFO [main] LoginPage:55 - Typing password
+2022-11-08 18:38:04,615  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 18:38:08,544  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 18:38:11,245  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 18:38:11,873  INFO [main] TimeTrackPage:67 - Clicking Approve Button
+2022-11-08 18:38:12,415 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:38:12,417 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:38:12,418 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:38:12,420 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:38:12,420 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:38:12,668 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:38:12,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:38:12,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:38:12,670 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:38:12,671 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:46:12,603 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:46:12,606 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:46:12,607 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:46:12,608 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:46:12,608 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:46:12,763 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:46:12,763 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:46:12,764 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:46:12,764 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:46:12,765 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:50:06,133 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:50:06,136 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:50:06,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:50:06,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:50:06,138 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:50:06,288 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:50:06,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:50:06,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:50:06,290 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:50:06,290 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:50:11,375 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:50:11,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:50:11,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:50:11,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:50:11,380 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:50:11,549 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:50:11,550 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:50:11,550 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:50:11,551 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:50:11,551 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:57:29,044 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:57:29,048 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:57:29,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:57:29,051 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:57:29,052 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:57:29,232 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:57:29,232 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:57:29,233 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:57:29,233 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:57:29,233 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:57:37,988 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:57:37,991 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:57:37,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:57:37,994 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:57:37,994 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:57:38,157 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:57:38,157 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:57:38,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:57:38,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:57:38,158 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:58:05,390 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:58:05,394 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:58:05,395 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:58:05,396 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:58:05,397 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:58:05,561 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:58:05,561 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:58:05,561 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:58:05,562 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:58:05,562 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:58:25,447 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:58:25,449 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:58:25,450 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:58:25,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:58:25,451 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:58:25,603 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:58:25,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:58:25,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:58:25,605 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:58:25,605 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:58:41,457 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:58:41,461 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:58:41,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:58:41,464 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:58:41,464 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:58:41,627 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:58:41,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:58:41,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:58:41,629 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:58:41,629 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:59:22,238 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:59:22,241 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:59:22,243 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:59:22,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:59:22,244 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 18:59:22,394 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 18:59:22,395 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 18:59:22,395 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 18:59:22,396 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 18:59:22,396 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:05:27,890 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:05:27,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:05:27,894 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:05:27,895 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:05:27,895 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:05:28,053 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:05:28,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:05:28,054 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:05:28,054 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:05:28,054 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:06:11,015 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:06:11,020 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:06:11,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:06:11,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:06:11,022 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:06:11,181 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:06:11,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:06:11,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:06:11,182 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:06:11,182 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:06:23,707 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:06:23,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:06:23,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:06:23,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:06:23,713 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:06:23,866 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:06:23,867 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:06:23,867 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:06:23,868 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:06:23,868 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:10:31,212 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:10:31,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:10:31,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:10:31,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:10:31,218 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:10:31,370 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:10:31,371 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:10:31,371 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:10:31,371 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:10:31,371 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:14:12,480 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:14:12,484 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:14:12,485 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:14:12,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:14:12,487 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:14:12,666 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:14:12,666 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:14:12,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:14:12,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:14:12,667 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:14:29,167 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:14:29,169 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:14:29,170 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:14:29,170 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:14:29,171 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:14:29,343 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:14:29,343 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:14:29,344 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:14:29,344 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:14:29,345 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:16:38,493 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:16:38,496 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:16:38,498 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:16:38,499 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:16:38,499 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:16:38,651 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:16:38,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:16:38,652 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:16:38,652 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:16:38,652 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:20:48,150 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:20:48,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:20:48,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:20:48,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:20:48,156 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:20:48,312 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:20:48,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:20:48,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:20:48,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:20:48,313 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:21:00,030 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:21:00,032 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:21:00,033 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:21:00,034 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:21:00,034 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:21:00,187 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:21:00,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:21:00,188 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:21:00,188 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:21:00,188 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:21:32,870 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:21:32,874 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:21:32,875 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:21:32,876 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:21:32,876 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:21:33,048 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:21:33,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:21:33,050 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:21:33,050 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:21:33,050 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:27:45,208 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:27:45,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:27:45,213 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:27:45,213 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:27:45,214 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:27:45,377 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:27:45,378 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:27:45,378 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:27:45,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:27:45,379 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:28:01,618 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:28:01,620 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:28:01,621 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:28:01,622 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:28:01,623 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:28:01,780 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:28:01,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:28:01,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:28:01,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:28:01,782 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:29:12,828  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 19:29:12,931  INFO [main] LoginPage:67 - Typing password
+2022-11-08 19:29:13,022  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 19:29:14,150  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 19:29:24,950  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 19:29:25,053  INFO [main] LoginPage:67 - Typing password
+2022-11-08 19:29:25,112  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 19:29:26,527  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 19:29:32,933  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:29:33,014  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:29:33,074  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:29:37,867  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 19:29:44,206  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:29:44,281  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:29:44,339  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:29:50,740  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 19:29:51,317  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 19:29:51,343  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 19:29:51,704  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 19:29:53,155  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 19:29:59,575  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:29:59,663  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:29:59,722  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:30:18,535  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:30:18,610  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:30:18,664  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:30:22,978  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:30:24,697  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 19:30:24,711  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:30:25,250  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 19:30:31,588  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:30:31,666  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:30:31,722  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:30:39,239  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:30:39,307  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:30:39,367  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:30:45,422  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:30:45,501  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:30:45,560  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:30:48,410  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:30:50,330  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:30:50,944  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 19:30:52,000  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 19:30:58,056  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:30:58,132  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:30:58,199  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:31:01,458  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:31:03,868  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:31:04,498  INFO [main] TimeTrackPage:67 - Clicking Approve Button
+2022-11-08 19:31:04,901 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:31:04,902 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:31:04,903 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:31:04,904 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:31:04,904 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:31:05,066 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:31:05,067 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:31:05,067 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:31:05,067 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:31:05,067 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:36:28,413  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 19:36:28,499  INFO [main] LoginPage:67 - Typing password
+2022-11-08 19:36:28,574  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 19:36:29,676  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 19:36:36,146  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 19:36:36,217  INFO [main] LoginPage:67 - Typing password
+2022-11-08 19:36:36,278  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 19:36:37,707  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 19:36:44,010  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:36:44,085  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:36:44,142  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:36:48,970  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 19:36:55,267  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:36:55,331  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:36:55,392  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:37:03,982  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 19:37:04,642  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 19:37:04,693  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 19:37:05,077  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 19:37:06,739  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 19:37:17,534  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:37:17,628  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:37:17,686  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:37:37,127  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:37:37,197  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:37:37,261  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:37:40,345  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:37:42,341  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 19:37:42,355  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:37:42,925  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 19:37:49,500  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:37:49,652  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:37:49,720  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:37:57,792  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:37:57,888  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:37:57,952  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:38:04,598  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:38:04,672  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:38:04,729  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:38:07,828  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:38:09,907  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:38:10,534  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 19:38:11,605  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 19:38:17,669  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:38:17,741  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:38:17,798  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:38:20,914  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:38:24,317  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:38:24,949  INFO [main] TimeTrackPage:67 - Clicking Approve Button
+2022-11-08 19:38:25,397 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:38:25,398 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:38:25,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:38:25,401 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:38:25,401 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:38:25,554 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:38:25,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:38:25,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:38:25,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:38:25,554 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:40:31,404  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 19:40:31,501  INFO [main] LoginPage:67 - Typing password
+2022-11-08 19:40:31,571  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 19:40:32,837  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 19:40:39,609  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 19:40:39,687  INFO [main] LoginPage:67 - Typing password
+2022-11-08 19:40:39,753  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 19:40:40,830  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 19:40:48,275  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:40:48,341  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:40:48,400  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:40:53,766  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 19:40:59,907  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:40:59,985  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:41:00,046  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:41:07,220  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 19:41:07,798  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 19:41:07,824  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 19:41:08,190  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 19:41:09,650  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 19:41:16,685  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:41:16,771  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:41:16,838  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:41:43,142  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:41:43,212  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:41:43,273  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:41:46,908  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:41:48,904  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 19:41:48,918  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:41:49,471  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 19:41:58,700  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:41:58,774  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:41:58,834  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:42:09,005  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:42:09,101  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:42:09,177  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:42:18,362  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:42:18,429  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:42:18,485  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:42:22,696  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:42:25,131  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:42:25,790  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 19:42:26,877  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 19:42:36,043  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:42:36,109  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:42:36,168  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:42:39,661  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 19:42:42,003  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 19:42:44,260 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:42:44,261 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:42:44,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:42:44,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:42:44,263 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:42:44,429 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:42:44,429 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:42:44,429 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:42:44,430 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:42:44,430 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:51:12,484  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 19:51:12,588  INFO [main] LoginPage:67 - Typing password
+2022-11-08 19:51:12,653  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 19:51:13,739  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 19:51:23,091  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 19:51:23,179  INFO [main] LoginPage:67 - Typing password
+2022-11-08 19:51:23,242  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 19:51:25,043  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 19:51:35,407  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:51:44,854  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:51:44,933  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:51:44,990  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:51:53,016  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 19:51:53,592  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 19:51:53,620  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 19:51:53,980  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 19:51:55,460  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 19:52:04,024  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:52:20,951  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:52:30,612  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:52:30,690  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:52:30,748  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:52:37,877  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 19:52:37,954  INFO [main] LoginPage:55 - Typing password
+2022-11-08 19:52:38,016  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 19:52:38,546 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:52:38,547 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:52:38,547 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:52:38,548 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:52:38,548 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 19:52:38,708 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 19:52:38,709 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 19:52:38,709 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 19:52:38,710 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 19:52:38,710 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 20:53:24,444  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 20:53:24,548  INFO [main] LoginPage:67 - Typing password
+2022-11-08 20:53:24,622  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 20:53:25,798  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 20:53:33,736  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 20:53:33,810  INFO [main] LoginPage:67 - Typing password
+2022-11-08 20:53:33,873  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 20:53:35,310  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 20:53:45,773  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 20:53:45,864  INFO [main] LoginPage:55 - Typing password
+2022-11-08 20:53:45,935  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 20:53:51,682  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 20:53:59,512  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 20:53:59,596  INFO [main] LoginPage:55 - Typing password
+2022-11-08 20:53:59,657  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 20:54:07,045  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 20:54:07,678  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 20:54:07,707  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 20:54:08,024  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 20:54:09,496  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 20:54:18,576  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 20:54:18,656  INFO [main] LoginPage:55 - Typing password
+2022-11-08 20:54:18,713  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 20:54:37,547  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 20:54:37,628  INFO [main] LoginPage:55 - Typing password
+2022-11-08 20:54:37,686  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 20:54:42,518  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 20:54:44,530  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 20:54:44,543  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 20:54:45,146  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 20:54:52,568  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 20:54:52,647  INFO [main] LoginPage:55 - Typing password
+2022-11-08 20:54:52,705  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 20:55:00,890  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 20:55:00,979  INFO [main] LoginPage:55 - Typing password
+2022-11-08 20:55:01,048  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 20:55:08,565  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 20:55:08,650  INFO [main] LoginPage:55 - Typing password
+2022-11-08 20:55:08,709  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 20:55:12,290  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 20:55:15,342  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 20:55:15,956  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 20:55:17,024  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 20:55:25,017  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 20:55:25,114  INFO [main] LoginPage:55 - Typing password
+2022-11-08 20:55:25,181  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 20:55:28,729  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 20:55:31,112  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 20:55:33,661 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 20:55:33,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 20:55:33,664 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 20:55:33,665 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 20:55:33,665 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 20:55:34,002 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 20:55:34,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 20:55:34,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 20:55:34,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 20:55:34,004 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 21:24:00,886  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 21:24:00,993  INFO [main] LoginPage:67 - Typing password
+2022-11-08 21:24:01,072  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 21:24:02,217  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 21:24:14,540  INFO [main] LoginPage:65 - Typing user Name
+2022-11-08 21:24:14,642  INFO [main] LoginPage:67 - Typing password
+2022-11-08 21:24:14,750  INFO [main] LoginPage:69 - Clicking login button
+2022-11-08 21:24:15,924  INFO [main] LoginPage:78 - Login error msg is displayed
+2022-11-08 21:24:23,414  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 21:24:23,509  INFO [main] LoginPage:55 - Typing password
+2022-11-08 21:24:23,580  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 21:24:29,368  INFO [main] UsersPage:42 - Getting user list count
+2022-11-08 21:24:36,849  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 21:24:36,989  INFO [main] LoginPage:55 - Typing password
+2022-11-08 21:24:37,123  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 21:24:45,863  INFO [main] ReportsPage:45 - Clicking past Months Leave Chart Section
+2022-11-08 21:24:46,451  INFO [main] ReportsPage:51 - get Report Name
+2022-11-08 21:24:46,482  INFO [main] ReportsPage:63 - Clicking Cancel Button
+2022-11-08 21:24:47,004  INFO [main] ReportsPage:57 - Clicking Attendance Chart Section
+2022-11-08 21:24:57,140  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 21:24:57,233  INFO [main] LoginPage:55 - Typing password
+2022-11-08 21:24:57,296  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 21:25:16,647  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 21:25:16,713  INFO [main] LoginPage:55 - Typing password
+2022-11-08 21:25:16,769  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 21:25:19,928  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 21:25:21,902  INFO [main] TimeTrackPage:90 - Getting users count in Approve table
+2022-11-08 21:25:21,914  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 21:25:22,516  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 21:25:29,949  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 21:25:30,032  INFO [main] LoginPage:55 - Typing password
+2022-11-08 21:25:30,108  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 21:25:37,570  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 21:25:37,641  INFO [main] LoginPage:55 - Typing password
+2022-11-08 21:25:37,700  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 21:25:44,555  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 21:25:44,632  INFO [main] LoginPage:55 - Typing password
+2022-11-08 21:25:44,685  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 21:25:50,881  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 21:25:52,845  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 21:25:53,511  INFO [main] TimeTrackPage:73 - Clicking Reject Button
+2022-11-08 21:25:54,572  INFO [main] TimeSheetApproveRejectPageTest:71 - Alert Message : This operation was not applied to the entries because their current status coincides with the operation status.
+2022-11-08 21:26:01,554  INFO [main] LoginPage:53 - Typing user Name
+2022-11-08 21:26:01,622  INFO [main] LoginPage:55 - Typing password
+2022-11-08 21:26:01,681  INFO [main] LoginPage:57 - Clicking login button
+2022-11-08 21:26:05,218  INFO [main] TimeTrackPage:52 - Clicking Approve Time Track
+2022-11-08 21:26:07,385  INFO [main] TimeTrackPage:80 - Getting users count in Approve table
+2022-11-08 21:26:08,014  INFO [main] TimeTrackPage:67 - Clicking Approve Button
+2022-11-08 21:26:08,613 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 21:26:08,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 21:26:08,615 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 21:26:08,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 21:26:08,616 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-08 21:26:08,784 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2022-11-08 21:26:08,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2022-11-08 21:26:08,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-08 21:26:08,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-08 21:26:08,785 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
