@@ -20,6 +20,7 @@
 
 -------------------------------------------------------------
 
+*** Apply the correct web driver path before running
 
 
 #### Mind Map or draft test cases for given requirement
